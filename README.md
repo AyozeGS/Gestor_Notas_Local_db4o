@@ -2,3 +2,5 @@
  Administrador de notas local para varios usuarios con db4o.
  
  Editor de archivos de texto con posibilidad de compartir o restringir privilegios de lectura/escritura a otros usuarios registrados.
+ 
+ ![Alt text](screenshots/main_screenshot.jpg?raw=true "Vista principal")
